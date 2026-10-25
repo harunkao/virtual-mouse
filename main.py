@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import elMouse as htm 
+import hand_detector as htm
 import pyautogui
 import math
 
